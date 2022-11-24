@@ -16,7 +16,7 @@
 title: Recipes
 email: hello@email.com
 description: >- # this means to ignore newlines until "baseurl:"
-  An set of non-nonsense recipes.
+  A set of no-nonsense recipes.
 baseurl: "/recipes" # the subpath of your site, e.g. /blog
 url: "https://johnsonlm.com" # the base hostname & protocol for your site, e.g. http://example.com
 icon: /assets/images/icon-512.png
