@@ -5,7 +5,8 @@ author: "Johnson Martin"
 categories: food
 ---
 
-Cornbread:
+
+### Cornbread:
 - 1 cup cornmeal
 - 1 cup self-rising flour
 - 1 cup Milk
@@ -13,8 +14,10 @@ Cornbread:
 - 2 Tablespoons Sugar
 - 5 Tablespoons Butter
 
+Combine ingrediants and pour into a buttered cast-iron pan. Bake at 400 degrees for 25 minutes or until the top is golden brown.
 
-Dressing:
+### Dressing:
+- 1 Pan cornbread
 - 3 Medium Onions
 - 5 Celery Stalks
 - 2 Cups Chicken Broth
@@ -26,3 +29,5 @@ Dressing:
 - 1 teaspoon poultry seasoning
 - 1 teaspoon salt
 - 1/2 teaspoon pepper
+
+Combine ingrediants and pour into a buttered 8-inch pan. Bake covered at 375 degrees for 10 minutes. Remove cover and bake for another 20 minutes or until the top is crusted and the dressing is firm.
