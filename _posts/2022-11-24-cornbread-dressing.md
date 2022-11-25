@@ -2,7 +2,7 @@
 layout: post
 title: "Cornbread Dressing"
 author: "Johnson Martin"
-categories: food
+categories: dinner
 ---
 
 ### Cornbread:
