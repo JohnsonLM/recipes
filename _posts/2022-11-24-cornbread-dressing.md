@@ -13,7 +13,7 @@ categories: dinner
 - 2 Tablespoons Sugar
 - 5 Tablespoons Butter
 
-Combine ingrediants and pour into a buttered cast-iron pan. Bake at 400 degrees for 25 minutes or until the top is golden brown.
+Combine ingrediants and pour into a buttered cast-iron pan. Bake at 400° for 25 minutes or until the top is golden brown.
 
 ### Dressing:
 Sauteed: 
@@ -32,4 +32,4 @@ To Bake:
 - 2 Eggs
 - 1/2 Cup Milk
 
-Combine sauteed ingrediants into a pan and cook down until soft, but still crunchy. Combine remaining ingredients with sauteed ingredients and pour into a buttered 8-inch pan. Bake covered at 375 degrees for 10 minutes. Remove cover and bake for another 20 minutes or until the top is crusted and the dressing is firm.
+Combine sauteed ingrediants into a pan and cook down until soft, but still crunchy. Combine remaining ingredients with sauteed ingredients and pour into a buttered 8-inch pan. Bake covered at 375° for 10 minutes. Remove cover and bake for another 20 minutes or until the top is crusted and the dressing is firm.

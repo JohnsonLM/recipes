@@ -13,4 +13,4 @@ categories: dessert
 - 3 cups self rising flour
 - 2 cups chocolate chips
 
-Freeze dough, then bake at 375 degrees for 10 minutes. 
+Freeze dough, then bake at 375° for 10 minutes. 

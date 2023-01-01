@@ -18,4 +18,4 @@ categories: entrees
 - 1-3 Red or Green Chili or chili powder (to taste)
 - Chopped cilantro
 
-sauté oil, onion, minced ginger and garlic. Add chilis, lentils, tomatoes, remaining spices, and 4 cups water. Boil, then rdcue to simmer for 30 minuites. Stir briskly/cook to thicken and break down mixture until desired thickeness is reached. Serve with salt and cilantro.
+Sauté oil, onion, minced ginger and garlic. Add chilis, lentils, tomatoes, remaining spices, and 4 cups water. Boil, then reduce to simmer for 30 minutes. Cook and stir briskly to thicken and break down mixture until desired thickeness is reached. Serve with salt and cilantro.
